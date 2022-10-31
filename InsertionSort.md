@@ -47,3 +47,4 @@ Avarage Case: [2,6,16,18,22,27]
 4. [ **2,3,5,7,8**,9,4,15,6]
 
 [Patika](https://www.patika.dev/tr)
+[Kodluyoruz](https://www.kodluyoruz.org/)
