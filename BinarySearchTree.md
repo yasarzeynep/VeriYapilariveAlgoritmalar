@@ -7,7 +7,7 @@
 ### Binary Search Tree Aşamaları
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisini soldan okumaya başlıyoruz.
 
-İlk olarak 7 rakamından başlayıp, bunun Kök Boğum(Root Node) olduğunu düşünerekten en başa yerleştirelim.
+İlk olarak 7 rakamından başlayıp, bunun Kök Boğum(Root Node) olduğunu düşünerek ilerleyelim.
 
 ```
 7
@@ -80,4 +80,4 @@
    / \
   2   4
 ```
-[Patika]()
+[Patika](https://www.patika.dev/tr)
