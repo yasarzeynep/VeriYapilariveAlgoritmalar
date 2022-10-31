@@ -6,12 +6,12 @@
 
 Adımlar | Böl-Birleştir
 -- | --
-1. Adım Böl | [16,21,11] - [8,12,22]
-2. Adım Böl | [16,21] - [11] - [8,12] - [22]
-3. Adım Böl | [16] - [21] - [11] - [8] - [12] - [22]
-4. Adım Birleştir | [16,21] - [11] - [8,12] - [22]
-5. Adım Birleştir| [11,16,21] - [8,12,22]
-6. Adım Birleştir | [8,11,12,16,21,22]
+Adım 1 Böl | [16,21,11] - [8,12,22]
+Adım 2 Böl | [16,21] - [11] - [8,12] - [22]
+Adım 3 Böl | [16] - [21] - [11] - [8] - [12] - [22]
+Adım 4 Birleştir | [16,21] - [11] - [8,12] - [22]
+Adım 5 Birleştir| [11,16,21] - [8,12,22]
+Adım 6 Birleştir | [8,11,12,16,21,22]
 
 2. Big-O gösterimini yazınız.
 
@@ -19,3 +19,4 @@ Adımlar | Böl-Birleştir
  O(nlogn)
 
  ```
+ [Patika](https://www.patika.dev/tr)
