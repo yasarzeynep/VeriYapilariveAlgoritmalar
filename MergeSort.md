@@ -20,3 +20,4 @@ Adım 6 Birleştir | [8,11,12,16,21,22]
 
  ```
  [Patika](https://www.patika.dev/tr)
+ [Kodluyoruz](https://www.kodluyoruz.org/)
